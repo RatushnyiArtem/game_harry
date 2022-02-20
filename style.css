@@ -11,6 +11,7 @@
     max-height: 1560px;
     background-color: antiquewhite;
     text-align: center;
+    min-width: 1920px;
 }
 #panel{
     height: 180px;
